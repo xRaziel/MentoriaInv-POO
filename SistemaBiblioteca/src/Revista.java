@@ -1,7 +1,7 @@
 public class Revista extends MaterialBibliografico{
 
-    public Revista(String codigo, String titulo, String autor, int añoPublicacion, boolean disponible) {
-        super(codigo, titulo, autor, añoPublicacion, disponible);
+    public Revista(String codigo, String titulo, String autor, int añoPublicacion ) {
+        super(codigo, titulo, autor, añoPublicacion);
     }
 
     @Override

@@ -1,7 +1,7 @@
 public class Tesis extends MaterialBibliografico{
 
-    public Tesis(String codigo, String titulo, String autor, int añoPublicacion, boolean disponible) {
-        super(codigo, titulo, autor, añoPublicacion, disponible);
+    public Tesis(String codigo, String titulo, String autor, int añoPublicacion ) {
+        super(codigo, titulo, autor, añoPublicacion);
     }
 
     @Override

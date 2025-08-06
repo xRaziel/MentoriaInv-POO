@@ -1,7 +1,7 @@
 public class Libro extends MaterialBibliografico{
 
-    public Libro(String codigo, String titulo, String autor, int añoPublicacion, boolean disponible) {
-        super(codigo, titulo, autor, añoPublicacion, disponible);
+    public Libro(String codigo, String titulo, String autor, int añoPublicacion) {
+        super(codigo, titulo, autor, añoPublicacion);
     }
 
     @Override

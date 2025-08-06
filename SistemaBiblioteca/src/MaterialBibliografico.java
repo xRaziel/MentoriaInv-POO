@@ -6,12 +6,12 @@ public abstract class MaterialBibliografico {
     protected int añoPublicacion;
     protected boolean disponible;
 
-    public MaterialBibliografico(String codigo, String titulo, String autor, int añoPublicacion, boolean disponible) {
+    public MaterialBibliografico(String codigo, String titulo, String autor, int añoPublicacion) {
         this.codigo = codigo;
         this.titulo = titulo;
         this.autor = autor;
         this.añoPublicacion = añoPublicacion;
-        this.disponible = disponible;
+        this.disponible = true;
     }
 
     public abstract double calcularMultaPorRetraso(int diasRetraso);

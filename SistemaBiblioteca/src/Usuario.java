@@ -18,6 +18,17 @@ public abstract class Usuario {
     public abstract int getMaximoMaterialesPermitidos();
     public abstract String getTipoUsuario();
 
+    public boolean agregarPrestamo(MaterialBibliografico material) {
+        if (materialesPrestados.size() < getMaximoMaterialesPermitidos()) {
+            return materialesPrestados.add(material);
+        }
+        return false;
+    }
+
+    public boolean removerPrestamo(MaterialBibliografico material) {
+        return materialesPrestados.remove(material);
+    }
+
     public String getId() {
         return id;
     }
