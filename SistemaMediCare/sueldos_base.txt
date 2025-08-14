@@ -1,0 +1,3 @@
+Medico,1500000
+Enfermero,900000
+Administrativo,800000

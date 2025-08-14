@@ -1,0 +1,20 @@
+Fernanda Silva,18.733.394-1,Compras,144,150
+Pablo Herrera,14.936.812-0,Compras,172,215
+Mario Fernández,8.906.427-8,Compras,147,161
+Fernanda Silva,6.311.683-3,Logística,165,221
+Pablo Herrera,10.943.371-0,Atención al Cliente,166,134
+Lucía Soto,5.244.095-6,Compras,148,286
+Pablo Herrera,11.252.554-7,Logística,173,198
+Fernanda Silva,13.968.324-6,Logística,146,285
+Mario Fernández,19.522.147-0,Finanzas,141,235
+Pablo Herrera,11.381.545-3,Logística,173,133
+Fernanda Silva,23.370.139-9,Atención al Cliente,179,137
+Lucía Soto,3.017.535-5,Recursos Humanos,163,199
+Mario Fernández,7.190.671-7,Recursos Humanos,175,177
+Mario Fernández,22.581.989-1,Compras,158,204
+Carlos López,19.463.778-2,Logística,170,104
+Carlos López,10.982.951-2,Recursos Humanos,160,217
+Pablo Herrera,21.019.039-2,Recursos Humanos,143,268
+Pablo Herrera,11.898.787-4,Compras,179,100
+Carlos López,12.663.632-7,Compras,180,138
+Carlos López,13.185.153-7,Logística,172,143
